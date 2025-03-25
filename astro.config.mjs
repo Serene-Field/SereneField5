@@ -5,6 +5,6 @@ import sitemap from '@astrojs/sitemap';
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://sadamingh.github.io/SereneField5/',
+	site: 'https://serene-field.github.io/SereneField5/',
 	integrations: [mdx(), sitemap()],
 });
